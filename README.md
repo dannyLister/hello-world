@@ -4,5 +4,6 @@
 
 this is called a commit. a change in a branch in github.
 
-attempt number three
-lets try again with a gif in the comment section!!
+attempt number four
+gifs are slightly annoying...
+try linkig in an @mention (in the pull request message)
